@@ -17,8 +17,11 @@ End the program
 ## Program:
 
 #Program to find the inverse of a matrix.
+
 #Developed by: THANZIL HUSSAIN A
+
 #RegisterNumber:25018773
+
 ```py
 import numpy as np
 matrix=np.array([[6,2,3],[3,1,1],[10,3,4]])
